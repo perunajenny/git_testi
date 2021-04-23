@@ -21,3 +21,5 @@ tuote_id
 Prioriteetti N -> miten tärkeä kuva on tuotteelle
 
 trololo
+
+MOIkku

@@ -1,0 +1,21 @@
+y-tunnus primer key
+
+ei tarvitse onko toimitus
+
+puhelin c/20
+
+tilausalennus turha
+
+asiakkaat
+
+alennus
+
+alennus asiakasryhmään
+
+tuoteryhmä - tyypit
+raaka-aineet: maltaat ja humalat
+
+kuvat - taulu
+kuva_id
+tuote_id
+Prioriteetti N -> miten tärkeä kuva on tuotteelle
